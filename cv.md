@@ -1,6 +1,6 @@
-##Resume
-###Name, surname
+Resume
+Name, surname
 Siarhei Burlakou
-###Summary
-###Skills
-###Experience
+Summary
+Skills
+xperience
